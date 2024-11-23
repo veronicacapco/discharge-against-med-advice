@@ -1,4 +1,4 @@
-# Patients Leaving Hospital Against Medical Advice
+# Patients Leaving Hospitals Against Medical Advice
 
 ### Content
 - `patients-discharge-against-medical-advice.csv` and `readmission-discharged-ama-vs-not-ama.csv` are the datasets used for this project
